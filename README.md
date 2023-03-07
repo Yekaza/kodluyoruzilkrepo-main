@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Lincese 
 
-MIT
+[MIT](LICENSE)
